@@ -38,7 +38,7 @@ Some challenges I encountered while building the app included completing the bui
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Alicia Isler]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
