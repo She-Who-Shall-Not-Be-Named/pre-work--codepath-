@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I encountered while building the app included completing the build and successfully running it only for the app to not allow me to input value amounts to calculate. The keyboard would randomly pop up or not pop up.
 
 ## License
 
